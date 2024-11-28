@@ -43,5 +43,8 @@
     • Explicação - Os campos nome e result são públicos, o que viola o princípio de encapsulamento. Devem ser privados e acessados através de métodos getters e setters.
 
 # --ETAPA 2--
+
+**Arquivo adicionado no projeto "PLANO DE TESTE-CAIXA BRANCA.xlsx"**
+
 # --ETAPA 3--
 # --ETAPA 4--
