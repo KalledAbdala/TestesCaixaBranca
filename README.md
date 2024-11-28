@@ -3,11 +3,11 @@
 
 ## --ETAPA 3--
 
-**Arquivo adicionado no projeto Grafo_de_fluxo.png**
+### **Arquivo adicionado no projeto Grafo_de_fluxo.png**
 
 *https://github.com/KalledAbdala/TestesCaixaBranca/blob/ETAPA_3/Grafo_de_fluxo.png*
 
-**Complexidade Ciclomática**
+### **Complexidade Ciclomática**
 
 *Calculado pela fórmula : M=E−N+2P*
 
@@ -17,7 +17,7 @@
     • M = -1 + 2
     • M = 1
 
-**Base de Caminhos**
+### **Base de Caminhos**
 *Base de Caminhos*
 
     • Caminho 1 = 1 → 2 → 3 → 5 → 6 → 7 → 8 → 9 → 10 → 11 → 12 → 14
