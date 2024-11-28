@@ -45,6 +45,7 @@
 # --ETAPA 2--
 
 **Arquivo adicionado no projeto "PLANO DE TESTE-CAIXA BRANCA.xlsx"**
+*https://github.com/KalledAbdala/TestesCaixaBranca/blob/main/PLANO%20DE%20TESTE-CAIXA%20BRANCA.xlsx*
 
 # --ETAPA 3--
 # --ETAPA 4--
