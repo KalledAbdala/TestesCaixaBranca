@@ -48,4 +48,8 @@
 *https://github.com/KalledAbdala/TestesCaixaBranca/blob/main/PLANO%20DE%20TESTE-CAIXA%20BRANCA.xlsx*
 
 # --ETAPA 3--
+
+**Disponível na Branch ETAPA_3**
+*https://github.com/KalledAbdala/TestesCaixaBranca/blob/ETAPA_3/README.md*
+
 # --ETAPA 4--
