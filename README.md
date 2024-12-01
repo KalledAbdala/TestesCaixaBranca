@@ -51,7 +51,7 @@
 
 **Disponível na Branch ETAPA_3**
 
-*https://github.com/KalledAbdala/TestesCaixaBranca/blob/ETAPA_3*
+*https://github.com/KalledAbdala/TestesCaixaBranca/tree/ETAPA_3*
 
 # --ETAPA 4--
 
